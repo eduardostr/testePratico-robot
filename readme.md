@@ -14,4 +14,4 @@ newTeste2.robot
 ![alt text](image-2.png)
 
 ### Confira abaixo o gif do teste por completo:
-<video controls src="testePratico.mp4" title="Title"></video>
+![alt text](testePratico.gif)
