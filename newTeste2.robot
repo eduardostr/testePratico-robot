@@ -72,7 +72,7 @@ Verificar e excluir o novo funcionário
     Wait Until Element Is Visible    ${LABELEMPLOYEENAME}
     Click Element    ${INPUTEMPLOYEENAME}
     Input Text    locator=${INPUTEMPLOYEENAME}    text=${NEWFUNCIONARIO}
-    Click Button    ${SEARCH}
+    Click Element    ${SEARCH}
     Sleep    5
     Wait Until Element Is Visible    //span[contains(.,'Records Found')]    5
     Click Element    locator=${DELETEEMPLOYEE}
