@@ -12,3 +12,6 @@ newTeste2.robot
 
 ### Por fim, ao finalizar o teste, será exibido várias mensagens no terminal integrado do VS Code, porém será exibido o nome "PASS" o que indica que o teste passou, ficando desta forma:
 ![alt text](image-2.png)
+
+### Confira abaixo o gif do teste por completo:
+<video controls src="testePratico.mp4" title="Title"></video>
